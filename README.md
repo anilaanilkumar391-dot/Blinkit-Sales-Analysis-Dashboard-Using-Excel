@@ -23,6 +23,7 @@ The project includes datasets related to customers, orders, products, order item
 - ✅ Present key business insights through a dashboard.
 
 ## 📊 Dashboard
+<img width="1862" height="752" alt="Dashboard" src="https://github.com/user-attachments/assets/596bed4b-e643-4890-9722-e14908f8ef43" />
 
 The dashboard provides a visual overview of sales performance and helps users understand important business metrics.
 
